@@ -11,10 +11,10 @@ from matplotlib.widgets import TextBox
 
 a1 = 5
 k1 = 17
-freq1 = 7
-a2 = 3
+freq1 = 3
+a2 = 8
 k2 = 13
-freq2 = 7
+freq2 = 2
 
 ######################
 
@@ -71,7 +71,7 @@ ax7=plt.axes([.25,.2,.15,.01])
 
 sfreq1 = Slider(ax5, r'$f_1 $', .1, 7.0, valinit=freq1, valstep=.1)
 samp1 = Slider(ax6, r'$A_1 $', .1, 10.0, valinit=a1, valstep=.1)
-sk1 = Slider(ax7, r'$k_1 $', .1, 20.0, valinit=k1, valstep=.1)
+sk1 = Slider(ax7, r'$k_1 $', .1, 20.0, valinit=k1, valstep=.2)
 
 
 
