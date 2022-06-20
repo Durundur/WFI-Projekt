@@ -1,1 +1,1 @@
-"# WFI-Projekt" 
+"Łukasz Bogusz - WFI-Projekt" 
