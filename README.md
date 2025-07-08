@@ -1,4 +1,4 @@
-"Łukasz Bogusz - WFI-Projekt" 
+WFI-Projekt" 
 
 ![Projekt](Figure_1.png)
 
